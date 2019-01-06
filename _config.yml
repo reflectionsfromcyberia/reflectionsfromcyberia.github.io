@@ -1,6 +1,6 @@
 name: Cyberia-Blog
 markdown: redcarpet
 pygments: true
-description: "Notizen für eine Kritik der politischen Technologie"
+description: "NOTIZENNOTIZEN"
 url: "reflectionsfromcyberia.github.io"
 permalink: /posts/:title
